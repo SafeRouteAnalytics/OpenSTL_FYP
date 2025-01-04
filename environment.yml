@@ -20,4 +20,3 @@ dependencies:
     - timm<=0.6.11
     - tqdm
     - einops
-prefix: /opt/anaconda3/envs/openstl
